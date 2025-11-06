@@ -1,4 +1,4 @@
-print("SHIVARAMAN COMPUTER MARK")
+print("JAGAN  COMPUTER MARK")
 print("nehr stree puducherry")
 print("______________________")
 print("    BILL RECPIT      ")
